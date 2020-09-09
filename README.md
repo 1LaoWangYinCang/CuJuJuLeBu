@@ -1,16 +1,15 @@
-# Jiebao Sports
-Jiebao Sports is committed to promoting professional and popular sports arenas, so that people can efficiently and high-quality book to their favorite sports arenas in daily life.
+# Love Beauty Street
 
-The sports arena launched by our app has a clean and tidy environment and professional sports facilities. You can book the most satisfying sports arena in our app.
+Love Beauty Street is dedicated to promoting professional and popular Beauty venues so that people can make efficient and high-quality appointments to their favorite Beauty venues in their daily lives.
 
-Our app is a sports arena court booking app. It shows a variety of sports arenas, including baseball arenas, basketball arenas, golf arenas, billiard clubs, hot courts and other sports arenas. These full range of sports arenas can meet the user's selection and reservation.
+- Our app is an appointment app for beauty venues. It showcases a variety of beauty venues, including nail salons, hair salons, facials, eyelash and eyebrow treatments and more. A full range of beauty venues are available for users to select and reserve.
 
-Our app categorizes these stadiums in great detail to help users quickly find the stadiums they want to book.
+- Our app categorizes these beauty venues in great detail to help users quickly find the beauty venues they want to book.
 
-Our app will introduce each stadium in detail, so that you can fully understand these stadiums, find the stadiums you like, so that you can make reservations and place orders.
+- Our app will introduce each beauty venue in detail, so that you can fully understand these venues, find your favorite beauty venue, and make an appointment to place an order.
 
-Our app also has the collection function of the sports arena. You can add your favorite sports arena to the list for your next browsing and ordering.
+- Our APP also has the function of collecting beauty venues. You can add your favorite beauty venues to the list so that you can browse and place your order next time.
 
-Book a hot arena and enjoy your playing time!
+Love Beauty Street makes you beautiful!
 
-If you have any questions, please contact us as follows :ys54399@21cn.com
+If you have any questions, please contact us as follows :mizhuigushi752@163.com:
