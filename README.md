@@ -1,15 +1,13 @@
-# Love Beauty Street
+#CuJuJuLeBu
 
-Love Beauty Street is dedicated to promoting professional and popular Beauty venues so that people can make efficient and high-quality appointments to their favorite Beauty venues in their daily lives.
+CuJuJuLeBu provides real-time data, multi-dimensional intelligence, trend analysis, match result prediction, sports information, professional old fans to take you to play the major leagues easily. Cuju Club consists of the following parts:
 
-- Our app is an appointment app for beauty venues. It showcases a variety of beauty venues, including nail salons, hair salons, facials, eyelash and eyebrow treatments and more. A full range of beauty venues are available for users to select and reserve.
+[Schedule] Provide real-time scores of football, basketball, e-sports and other multi-sports events. Welcome to our sports family.
 
-- Our app categorizes these beauty venues in great detail to help users quickly find the beauty venues they want to book.
+[Revelation] Provide sports news, team situation, game situation, the old fans will be more on the game score forecast, situation analysis. Let the fans know about the team, only one article.
 
-- Our app will introduce each beauty venue in detail, so that you can fully understand these venues, find your favorite beauty venue, and make an appointment to place an order.
+[Circle] Here you speak freely, gossip, gossip, gossip is available, let you watch the game while interacting.
 
-- Our APP also has the function of collecting beauty venues. You can add your favorite beauty venues to the list so that you can browse and place your order next time.
+Massive game data analysis and round-the-clock update of game information are designed to build a communication platform for the majority of sports fans and expand our Cuju club. Come and join us and cheer with 500,000 fans!
 
-Love Beauty Street makes you beautiful!
-
-If you have any questions, please contact us as follows :mizhuigushi752@163.com:
+If you have any questions, please contact us as follows :cheng1210001@163.com
